@@ -1,6 +1,6 @@
 # student_progress_tracker
 
-This is a progress tracker for police/law enforcement students in training, built using the Python Flet module.
+This is a progress tracker for police/law enforcement students in training, built using the Python Flet module ( @flet-dev ).
 
 ## Features
 
