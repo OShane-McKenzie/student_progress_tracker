@@ -1,0 +1,14 @@
+{
+    "students":{
+        "spt_0000001":{
+            "attendance":[
+                {
+                    "arrival":"",
+                    "session":"",
+                    "label":"",
+                    "remarks":""
+                }
+            ]
+        }
+    }
+}

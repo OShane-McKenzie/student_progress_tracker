@@ -1,0 +1,60 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory",
+      "spt_7xt77y2723": 85,
+      "spt_qyt6p1cuu9": 89
+    },
+    {
+      "name": "practical",
+      "spt_7xt77y2723": 87,
+      "spt_qyt6p1cuu9": 87
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Principles of Forensic Science",
+      "spt_5hf515owhu": 0,
+      "spt_6beh28cu72": 0,
+      "spt_7xt77y2723": 88,
+      "spt_8ghc0xex58": 0,
+      "spt_g2y0asge30": 0,
+      "spt_k58x703821": 0,
+      "spt_moyc9f0vj9": 0,
+      "spt_nekgr2e79u": 0,
+      "spt_qyt6p1cuu9": 0,
+      "spt_x699d5cvsj": 0
+    },
+    {
+      "name": "Evidence Collection and Preservation",
+      "spt_5hf515owhu": 0,
+      "spt_7xt77y2723": 0,
+      "spt_moyc9f0vj9": 0,
+      "spt_x699d5cvsj": 0
+    },
+    {
+      "name": "Crime Scene Reconstruction"
+    },
+    {
+      "name": "Bloodstain Pattern Analysis"
+    },
+    {
+      "name": "Fingerprint Analysis"
+    },
+    {
+      "name": "DNA Analysis"
+    }
+  ],
+  "modules_count": {
+    "Bloodstain Pattern Analysis": 3,
+    "Crime Scene Reconstruction": 2,
+    "DNA Analysis": 5,
+    "Evidence Collection and Preservation": 1,
+    "Fingerprint Analysis": 4,
+    "Principles of Forensic Science": 0
+  }
+}

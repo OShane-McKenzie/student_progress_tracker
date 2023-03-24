@@ -1,0 +1,42 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory"
+    },
+    {
+      "name": "practical"
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Probable Cause and Reasonable Suspicion"
+    },
+    {
+      "name": "Use of Force"
+    },
+    {
+      "name": "Miranda Rights and Custodial Interrogation"
+    },
+    {
+      "name": "Booking Procedures"
+    },
+    {
+      "name": "Transporting and Detaining Suspects"
+    },
+    {
+      "name": "Criminal Procedure and Due Process"
+    }
+  ],
+  "modules_count": {
+    "Booking Procedures": 3,
+    "Criminal Procedure and Due Process": 5,
+    "Miranda Rights and Custodial Interrogation": 2,
+    "Probable Cause and Reasonable Suspicion": 0,
+    "Transporting and Detaining Suspects": 4,
+    "Use of Force": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory",
+      "spt_ihu988o83x": 94
+    },
+    {
+      "name": "practical",
+      "spt_ihu988o83x": 84
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Help",
+      "spt_0001": 54,
+      "spt_ihu988o83x": 98,
+      "spt_l5qspvqat1": 0
+    },
+    {
+      "name": "Time",
+      "spt_b4b1f372s4": 0
+    },
+    {
+      "name": "Mathematics",
+      "spt_ihu988o83x": 0
+    },
+    {
+      "name": "Information Technology",
+      "spt_a7kd32wjyh": 56,
+      "spt_b4b1f372s4": 0,
+      "spt_ihu988o83x": 0,
+      "spt_l5qspvqat1": 0
+    },
+    {
+      "name": "Computer"
+    },
+    {
+      "name": "Art",
+      "spt_l5qspvqat1": 0
+    }
+  ],
+  "modules_count": {
+    "Art": 5,
+    "Computer": 4,
+    "Help": 0,
+    "Information Technology": 3,
+    "Mathematics": 2,
+    "Time": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory"
+    },
+    {
+      "name": "practical"
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Stop and Search"
+    },
+    {
+      "name": "Search and Seizure"
+    },
+    {
+      "name": "Terry Stops and Frisk"
+    },
+    {
+      "name": "Consent Searches"
+    },
+    {
+      "name": "Vehicle Searches"
+    },
+    {
+      "name": "Border Searches"
+    },
+    {
+      "name": "Use of K-9 Units and Other Detection Methods"
+    }
+  ],
+  "modules_count": {
+    "Border Searches": 5,
+    "Consent Searches": 3,
+    "Search and Seizure": 1,
+    "Stop and Search": 0,
+    "Terry Stops and Frisk": 2,
+    "Use of K-9 Units and Other Detection Methods": 6,
+    "Vehicle Searches": 4
+  }
+}

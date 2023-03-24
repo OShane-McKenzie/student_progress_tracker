@@ -1,0 +1,32 @@
+{
+  "majorAssessments": [],
+  "majorAssessments_count": {},
+  "modules": [
+    {
+      "name": "Help",
+      "spt_0001": 54
+    },
+    {
+      "name": "Time",
+      "spt_b4b1f372s4": 0,
+      "spt_ihu988o83x": 0
+    },
+    {
+      "name": "Mathematics",
+      "spt_ihu988o83x": 0
+    },
+    {
+      "name": "Information Technology",
+      "spt_a7kd32wjyh": 0,
+      "spt_b4b1f372s4": 0,
+      "spt_ihu988o83x": 0,
+      "spt_l5qspvqat1": 0
+    }
+  ],
+  "modules_count": {
+    "Help": 0,
+    "Information Technology": 3,
+    "Mathematics": 2,
+    "Time": 1
+  }
+}

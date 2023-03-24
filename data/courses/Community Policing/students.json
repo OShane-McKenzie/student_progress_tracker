@@ -1,0 +1,270 @@
+{
+  "student_count": {
+    "spt_2ci068ph9b": 1,
+    "spt_2l7qnzw3vs": 0,
+    "spt_4llbk2zlfo": 6,
+    "spt_e8r514kihh": 8,
+    "spt_fqzrvp5xkb": 10,
+    "spt_ibdxxa9u3v": 2,
+    "spt_l7cahrcqni": 9,
+    "spt_r10qbcyexj": 7,
+    "spt_sopv44ixs2": 5,
+    "spt_tjqkpiwdaa": 4,
+    "spt_wgjc8q3p7a": 3
+  },
+  "students": [
+    {
+      "ageRange": "46-50",
+      "completedCourses": [
+        "Physical Education",
+        "Geography",
+        "English",
+        "History"
+      ],
+      "division": "Hanover",
+      "email": "example3@example.com",
+      "firstName": "Ava",
+      "id": "spt_2l7qnzw3vs",
+      "lastName": "Garcia",
+      "mobile": "9999999999",
+      "ongoingCourses": [
+        "Music"
+      ],
+      "rank": "General",
+      "regulationNumber": 69719,
+      "station": "Black River"
+    },
+    {
+      "ageRange": "66-70",
+      "completedCourses": [
+        "Science",
+        "Biology",
+        "Geography"
+      ],
+      "division": "Hanover",
+      "email": "example1@example.com",
+      "firstName": "Emma",
+      "id": "spt_2ci068ph9b",
+      "lastName": "Lee",
+      "mobile": "1111111111",
+      "ongoingCourses": [
+        "Computer Science"
+      ],
+      "rank": "Major",
+      "regulationNumber": 32030,
+      "station": "Mandeville"
+    },
+    {
+      "ageRange": "36-40",
+      "completedCourses": [
+        "Music"
+      ],
+      "division": "St. Elizabeth",
+      "email": "example2@example.com",
+      "firstName": "Michael",
+      "id": "spt_ibdxxa9u3v",
+      "lastName": "Allen",
+      "mobile": "1111111111",
+      "ongoingCourses": [
+        "Biology",
+        "Math",
+        "English",
+        "History"
+      ],
+      "rank": "Lieutenant",
+      "regulationNumber": 26827,
+      "station": "St. Andrew"
+    },
+    {
+      "ageRange": "36-40",
+      "completedCourses": [
+        "Geography",
+        "Biology",
+        "Computer Science"
+      ],
+      "division": "Portland",
+      "email": "example3@example.com",
+      "firstName": "Olivia",
+      "id": "spt_wgjc8q3p7a",
+      "lastName": "Allen",
+      "mobile": "2222222222",
+      "ongoingCourses": [
+        "Computer Science",
+        "Physical Education",
+        "Geography",
+        "Biology"
+      ],
+      "rank": "Private",
+      "regulationNumber": 52958,
+      "station": "Black River"
+    },
+    {
+      "ageRange": "18-25",
+      "completedCourses": [
+        "Math",
+        "Art",
+        "Science",
+        "Geography"
+      ],
+      "division": "Clarendon",
+      "email": "example3@example.com",
+      "firstName": "Olivia",
+      "id": "spt_tjqkpiwdaa",
+      "lastName": "Jones",
+      "mobile": "8888888888",
+      "ongoingCourses": [
+        "Biology",
+        "Physical Education",
+        "English",
+        "History",
+        "Computer Science",
+        "Art",
+        "Music",
+        "Math",
+        "Geography"
+      ],
+      "rank": "General",
+      "regulationNumber": 92682,
+      "station": "Black River"
+    },
+    {
+      "ageRange": "26-30",
+      "completedCourses": [
+        "Computer Science",
+        "Science"
+      ],
+      "division": "Manchester",
+      "email": "example1@example.com",
+      "firstName": "Ava",
+      "id": "spt_sopv44ixs2",
+      "lastName": "Garcia",
+      "mobile": "8888888888",
+      "ongoingCourses": [
+        "English",
+        "Computer Science",
+        "Math",
+        "Science"
+      ],
+      "rank": "Chief Warrant Officer",
+      "regulationNumber": 59577,
+      "station": "May Pen"
+    },
+    {
+      "ageRange": "26-30",
+      "completedCourses": [
+        "Geography",
+        "Art"
+      ],
+      "division": "St. Ann",
+      "email": "example2@example.com",
+      "firstName": "Ava",
+      "id": "spt_4llbk2zlfo",
+      "lastName": "Davis",
+      "mobile": "7777777777",
+      "ongoingCourses": [
+        "Art",
+        "Computer Science",
+        "Science",
+        "Physical Education",
+        "Music"
+      ],
+      "rank": "Lieutenant",
+      "regulationNumber": 18597,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "46-50",
+      "completedCourses": [
+        "History"
+      ],
+      "division": "Clarendon",
+      "email": "example2@example.com",
+      "firstName": "Michael",
+      "id": "spt_r10qbcyexj",
+      "lastName": "Davis",
+      "mobile": "3333333333",
+      "ongoingCourses": [
+        "Art",
+        "Science",
+        "Biology",
+        "Computer Science"
+      ],
+      "rank": "Sergeant Major",
+      "regulationNumber": 79055,
+      "station": "Falmouth"
+    },
+    {
+      "ageRange": "41-45",
+      "completedCourses": [
+        "History",
+        "Physical Education",
+        "Biology",
+        "Computer Science",
+        "Art",
+        "English"
+      ],
+      "division": "St. Elizabeth",
+      "email": "example2@example.com",
+      "firstName": "William",
+      "id": "spt_e8r514kihh",
+      "lastName": "Martinez",
+      "mobile": "9999999999",
+      "ongoingCourses": [
+        "Math",
+        "Science",
+        "Music"
+      ],
+      "rank": "Private",
+      "regulationNumber": 61876,
+      "station": "Falmouth"
+    },
+    {
+      "ageRange": "41-45",
+      "completedCourses": [
+        "History",
+        "Physical Education"
+      ],
+      "division": "Manchester",
+      "email": "example4@example.com",
+      "firstName": "William",
+      "id": "spt_l7cahrcqni",
+      "lastName": "Mitchell",
+      "mobile": "8888888888",
+      "ongoingCourses": [
+        "Physical Education",
+        "History",
+        "Music",
+        "Geography",
+        "English",
+        "Art"
+      ],
+      "rank": "Sergeant Major",
+      "regulationNumber": 54813,
+      "station": "Ocho Rios"
+    },
+    {
+      "ageRange": "18-25",
+      "completedCourses": [
+        "Music",
+        "Art",
+        "Math",
+        "English",
+        "Science",
+        "Biology"
+      ],
+      "division": "St. Mary",
+      "email": "example3@example.com",
+      "firstName": "John",
+      "id": "spt_fqzrvp5xkb",
+      "lastName": "Garcia",
+      "mobile": "1234567890",
+      "ongoingCourses": [
+        "English",
+        "Computer Science"
+      ],
+      "rank": "Colonel",
+      "regulationNumber": 56186,
+      "station": "Mandeville"
+    }
+  ]
+}

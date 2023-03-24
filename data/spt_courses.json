@@ -1,0 +1,62 @@
+{
+  "current": [
+    {
+      "end": "09_02_2023_09_00",
+      "image": "",
+      "name": "Crime Scene Investigation",
+      "start": "02_02_2023_09_00",
+      "students": 15,
+      "updated": "02_02_2023_09_00"
+    },
+    {
+      "end": "09_02_2023_09_00",
+      "image": "",
+      "name": "Arrest Procedures",
+      "start": "02_02_2023_09_00",
+      "students": 15,
+      "updated": "02_02_2023_09_00"
+    },
+    {
+      "end": "09_02_2023_09_00",
+      "image": "",
+      "name": "Local Laws",
+      "start": "02_02_2023_09_00",
+      "students": 15,
+      "updated": "02_02_2023_09_00"
+    },
+    {
+      "end": "09_02_2023_09_00",
+      "image": "",
+      "name": "Stop and Search",
+      "start": "02_02_2023_09_00",
+      "students": 15,
+      "updated": "02_02_2023_09_00"
+    },
+    {
+      "end": "09_02_2023_09_00",
+      "image": "",
+      "name": "Community Policing",
+      "start": "02_02_2023_09_00",
+      "students": 15,
+      "updated": "02_02_2023_09_00"
+    },
+    {
+      "end": "09_02_2023_09_00",
+      "image": "",
+      "name": "Deduction and Reasoning",
+      "start": "02_02_2023_09_00",
+      "students": 15,
+      "updated": "02_02_2023_09_00"
+    }
+  ],
+  "history": [
+    {
+      "end": "",
+      "image": "",
+      "name": "",
+      "start": "",
+      "students": 0,
+      "updated": ""
+    }
+  ]
+}

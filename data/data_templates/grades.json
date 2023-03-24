@@ -1,0 +1,18 @@
+{
+    "modules_count":{},
+    "majorAssessments_count":{
+        "theory":0,
+        "practical":1
+    },
+    "modules":[
+
+    ],
+    "majorAssessments":[
+        {
+            "name":"theory"
+        },
+        {
+            "name":"practical"
+        }
+    ]
+}

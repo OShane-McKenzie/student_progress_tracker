@@ -1,0 +1,265 @@
+{
+  "student_count": {
+    "spt_55040qfbd9": 1,
+    "spt_ba15lyedu2": 2,
+    "spt_jz5o0yxfal": 8,
+    "spt_kgxi5qy6n1": 7,
+    "spt_o7g2rnwgs1": 0,
+    "spt_os4a73zrqn": 6,
+    "spt_tumjsisrf9": 3,
+    "spt_vavoi8ytxm": 4,
+    "spt_xcvjq8imeo": 5
+  },
+  "students": [
+    {
+      "ageRange": "36-40",
+      "completedCourses": [
+        "History",
+        "Physical Education",
+        "English",
+        "Computer Science",
+        "Art",
+        "Music",
+        "Math",
+        "Science",
+        "Geography"
+      ],
+      "division": "St. Mary",
+      "email": "example1@example.com",
+      "firstName": "Michael",
+      "id": "spt_o7g2rnwgs1",
+      "lastName": "Mitchell",
+      "mobile": "1111111111",
+      "ongoingCourses": [
+        "Geography",
+        "Biology",
+        "Physical Education",
+        "History",
+        "Art",
+        "Music",
+        "Science",
+        "Math",
+        "English"
+      ],
+      "rank": "Corporal",
+      "regulationNumber": 39176,
+      "station": "Montego Bay"
+    },
+    {
+      "ageRange": "36-40",
+      "completedCourses": [
+        "Biology",
+        "Science",
+        "Math",
+        "Art",
+        "Geography",
+        "Physical Education",
+        "History",
+        "Computer Science",
+        "English"
+      ],
+      "division": "Hanover",
+      "email": "example5@example.com",
+      "firstName": "James",
+      "id": "spt_55040qfbd9",
+      "lastName": "Williams",
+      "mobile": "9999999999",
+      "ongoingCourses": [
+        "Physical Education",
+        "Math",
+        "Art",
+        "Geography",
+        "Biology",
+        "Music",
+        "English",
+        "Science",
+        "History"
+      ],
+      "rank": "Major",
+      "regulationNumber": 54748,
+      "station": "Ocho Rios"
+    },
+    {
+      "ageRange": "46-50",
+      "completedCourses": [
+        "Art",
+        "Math",
+        "English",
+        "History",
+        "Physical Education",
+        "Biology",
+        "Geography",
+        "Music",
+        "Computer Science",
+        "Science"
+      ],
+      "division": "Clarendon",
+      "email": "example3@example.com",
+      "firstName": "Emily",
+      "id": "spt_ba15lyedu2",
+      "lastName": "Lee",
+      "mobile": "6666666666",
+      "ongoingCourses": [
+        "Art",
+        "History",
+        "English",
+        "Science",
+        "Math"
+      ],
+      "rank": "Private",
+      "regulationNumber": 56692,
+      "station": "Negril"
+    },
+    {
+      "ageRange": "51-55",
+      "completedCourses": [
+        "English",
+        "Physical Education",
+        "Science",
+        "History",
+        "Music",
+        "Biology",
+        "Art",
+        "Geography"
+      ],
+      "division": "St. James",
+      "email": "example2@example.com",
+      "firstName": "William",
+      "id": "spt_tumjsisrf9",
+      "lastName": "Brown",
+      "mobile": "3333333333",
+      "ongoingCourses": [],
+      "rank": "Sergeant",
+      "regulationNumber": 51590,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "Computer Science"
+      ],
+      "division": "Manchester",
+      "email": "example2@example.com",
+      "firstName": "William",
+      "id": "spt_vavoi8ytxm",
+      "lastName": "Jones",
+      "mobile": "8888888888",
+      "ongoingCourses": [],
+      "rank": "Major",
+      "regulationNumber": 98857,
+      "station": "St. Andrew"
+    },
+    {
+      "ageRange": "36-40",
+      "completedCourses": [
+        "Music",
+        "Math",
+        "Science",
+        "Biology",
+        "Geography",
+        "Physical Education",
+        "Art"
+      ],
+      "division": "St. Mary",
+      "email": "example5@example.com",
+      "firstName": "Emily",
+      "id": "spt_xcvjq8imeo",
+      "lastName": "Smith",
+      "mobile": "5555555555",
+      "ongoingCourses": [
+        "Biology",
+        "Computer Science",
+        "English",
+        "Science",
+        "Physical Education",
+        "Art",
+        "History",
+        "Music",
+        "Math",
+        "Geography"
+      ],
+      "rank": "Corporal",
+      "regulationNumber": 55257,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "Biology",
+        "Physical Education"
+      ],
+      "division": "St. James",
+      "email": "example3@example.com",
+      "firstName": "Benjamin",
+      "id": "spt_os4a73zrqn",
+      "lastName": "Allen",
+      "mobile": "0987654321",
+      "ongoingCourses": [
+        "Biology",
+        "English",
+        "History",
+        "Music",
+        "Physical Education"
+      ],
+      "rank": "Sergeant",
+      "regulationNumber": 18601,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "61-65",
+      "completedCourses": [
+        "Biology",
+        "Geography",
+        "Physical Education",
+        "History",
+        "Art"
+      ],
+      "division": "Kingston",
+      "email": "example2@example.com",
+      "firstName": "Olivia",
+      "id": "spt_kgxi5qy6n1",
+      "lastName": "Smith",
+      "mobile": "3333333333",
+      "ongoingCourses": [
+        "Geography",
+        "Physical Education",
+        "English",
+        "History",
+        "Art",
+        "Music",
+        "Biology",
+        "Math"
+      ],
+      "rank": "Captain",
+      "regulationNumber": 64894,
+      "station": "Spanish Town"
+    },
+    {
+      "ageRange": "61-65",
+      "completedCourses": [
+        "Geography",
+        "Science",
+        "Biology",
+        "English",
+        "Art"
+      ],
+      "division": "Portland",
+      "email": "example4@example.com",
+      "firstName": "Sophia",
+      "id": "spt_jz5o0yxfal",
+      "lastName": "Johnson",
+      "mobile": "6666666666",
+      "ongoingCourses": [
+        "Science",
+        "Music",
+        "Physical Education",
+        "Math",
+        "Art",
+        "Geography"
+      ],
+      "rank": "Sergeant",
+      "regulationNumber": 20563,
+      "station": "Mandeville"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "student_count": {
+    "spt_a7kd32wjyh": 1,
+    "spt_b4b1f372s4": 2,
+    "spt_ihu988o83x": 4,
+    "spt_l5qspvqat1": 5,
+    "spt_neweb3nh3c": 0,
+    "spt_tboa80jrko": 3
+  },
+  "students": [
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "Science"
+      ],
+      "division": "Kingston",
+      "email": "example1@example.com",
+      "firstName": "Emily",
+      "id": "spt_neweb3nh3c",
+      "lastName": "Brown",
+      "mobile": "0987654321",
+      "ongoingCourses": [
+        "History",
+        "Math"
+      ],
+      "rank": "Captain",
+      "regulationNumber": 66398,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "18-25",
+      "completedCourses": [
+        "Science",
+        "English",
+        "Math",
+        "History"
+      ],
+      "division": "Kingston",
+      "email": "example1@example.com",
+      "firstName": "William",
+      "id": "spt_a7kd32wjyh",
+      "lastName": "Garcia",
+      "mobile": "0987654321",
+      "ongoingCourses": [
+        "Math",
+        "Science"
+      ],
+      "rank": "Sergeant",
+      "regulationNumber": 52696,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "26-30",
+      "completedCourses": [
+        "English",
+        "Math"
+      ],
+      "division": "Kingston",
+      "email": "example3@example.com",
+      "firstName": "James",
+      "id": "spt_b4b1f372s4",
+      "lastName": "Smith",
+      "mobile": "1234567890",
+      "ongoingCourses": [
+        "English",
+        "History",
+        "Math",
+        "Science"
+      ],
+      "rank": "Captain",
+      "regulationNumber": 82649,
+      "station": "Mandeville"
+    },
+    {
+      "ageRange": "18-25",
+      "completedCourses": [
+        "History"
+      ],
+      "division": "St. Ann",
+      "email": "example2@example.com",
+      "firstName": "Emma",
+      "id": "spt_tboa80jrko",
+      "lastName": "Brown",
+      "mobile": "1234567890",
+      "ongoingCourses": [
+        "Science"
+      ],
+      "rank": "Private",
+      "regulationNumber": 11832,
+      "station": "Negril"
+    },
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "Science",
+        "History"
+      ],
+      "division": "Manchester",
+      "email": "example2@example.com",
+      "firstName": "William",
+      "id": "spt_ihu988o83x",
+      "lastName": "Brown",
+      "mobile": "1234567890",
+      "ongoingCourses": [
+        "English",
+        "History",
+        "Science"
+      ],
+      "rank": "Captain",
+      "regulationNumber": 71056,
+      "station": "Ocho Rios"
+    },
+    {
+      "ageRange": "26-30",
+      "completedCourses": [
+        "English",
+        "Math",
+        "Science",
+        "History"
+      ],
+      "division": "Kingston",
+      "email": "example3@example.com",
+      "firstName": "Ava",
+      "id": "spt_l5qspvqat1",
+      "lastName": "Garcia",
+      "mobile": "5555555555",
+      "ongoingCourses": [
+        "History",
+        "Math",
+        "Science"
+      ],
+      "rank": "Captain",
+      "regulationNumber": 25719,
+      "station": "Portmore"
+    }
+  ]
+}

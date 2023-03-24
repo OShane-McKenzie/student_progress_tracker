@@ -1,0 +1,47 @@
+{
+  "student_count": {
+    "spt_jgf1nlpwcp": 0,
+    "spt_mfq6ydsagj": 1
+  },
+  "students": [
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "History",
+        "Math",
+        "Science",
+        "English"
+      ],
+      "division": "Manchester",
+      "email": "example1@example.com",
+      "firstName": "Emma",
+      "id": "spt_jgf1nlpwcp",
+      "lastName": "Jones",
+      "mobile": "5555555555",
+      "ongoingCourses": [
+        "Math",
+        "Science"
+      ],
+      "rank": "Captain",
+      "regulationNumber": 93549,
+      "station": "Mandeville"
+    },
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "Math",
+        "Science"
+      ],
+      "division": "Manchester",
+      "email": "example3@example.com",
+      "firstName": "Emma",
+      "id": "spt_mfq6ydsagj",
+      "lastName": "Smith",
+      "mobile": "1234567890",
+      "ongoingCourses": [],
+      "rank": "Colonel",
+      "regulationNumber": 31971,
+      "station": "Ocho Rios"
+    }
+  ]
+}

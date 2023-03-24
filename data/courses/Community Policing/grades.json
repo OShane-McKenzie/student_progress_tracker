@@ -1,0 +1,42 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory"
+    },
+    {
+      "name": "practical"
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Community-Oriented Policing and Problem-Solving (COPPS)"
+    },
+    {
+      "name": "Building Trust and Relationships with the Community"
+    },
+    {
+      "name": "Cultural Competency and Diversity Training"
+    },
+    {
+      "name": "Crime Prevention and Reduction Strategies"
+    },
+    {
+      "name": "Collaboration with Community Partners"
+    },
+    {
+      "name": "Media Relations and Public Information"
+    }
+  ],
+  "modules_count": {
+    "Building Trust and Relationships with the Community": 1,
+    "Collaboration with Community Partners": 4,
+    "Community-Oriented Policing and Problem-Solving (COPPS)": 0,
+    "Crime Prevention and Reduction Strategies": 3,
+    "Cultural Competency and Diversity Training": 2,
+    "Media Relations and Public Information": 5
+  }
+}

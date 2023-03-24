@@ -1,0 +1,32 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory",
+      "spt_jgf1nlpwcp": 90
+    },
+    {
+      "name": "practical",
+      "spt_jgf1nlpwcp": "0"
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Information Technology",
+      "spt_jgf1nlpwcp": 0,
+      "spt_mfq6ydsagj": 0
+    },
+    {
+      "name": "History",
+      "spt_jgf1nlpwcp": 0,
+      "spt_mfq6ydsagj": 0
+    }
+  ],
+  "modules_count": {
+    "History": 1,
+    "Information Technology": 0
+  }
+}

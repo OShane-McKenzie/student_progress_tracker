@@ -1,0 +1,42 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory"
+    },
+    {
+      "name": "practical"
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Inductive and Deductive Reasoning"
+    },
+    {
+      "name": "Logical Fallacies and Cognitive Biases"
+    },
+    {
+      "name": "Crime Analysis and Intelligence Gathering"
+    },
+    {
+      "name": "Decision-Making Strategies and Techniques"
+    },
+    {
+      "name": "Investigative Interviewing and Interrogation"
+    },
+    {
+      "name": "Behavioral Analysis and Profiling"
+    }
+  ],
+  "modules_count": {
+    "Behavioral Analysis and Profiling": 5,
+    "Crime Analysis and Intelligence Gathering": 2,
+    "Decision-Making Strategies and Techniques": 3,
+    "Inductive and Deductive Reasoning": 0,
+    "Investigative Interviewing and Interrogation": 4,
+    "Logical Fallacies and Cognitive Biases": 1
+  }
+}

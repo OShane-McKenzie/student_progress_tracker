@@ -1,0 +1,65 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory",
+      "spt_b4b1f372s4": 78,
+      "spt_ihu988o83x": 94,
+      "spt_l5qspvqat1": 7
+    },
+    {
+      "name": "practical",
+      "spt_b4b1f372s4": 98,
+      "spt_ihu988o83x": 84,
+      "spt_l5qspvqat1": 0
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Help",
+      "spt_b4b1f372s4": 0,
+      "spt_ihu988o83x": 98,
+      "spt_l5qspvqat1": 3
+    },
+    {
+      "name": "Time",
+      "spt_b4b1f372s4": 60,
+      "spt_ihu988o83x": 0
+    },
+    {
+      "name": "Mathematics",
+      "spt_ihu988o83x": 0
+    },
+    {
+      "name": "Information Technology",
+      "spt_a7kd32wjyh": 56,
+      "spt_b4b1f372s4": 30,
+      "spt_ihu988o83x": 100,
+      "spt_l5qspvqat1": 87
+    },
+    {
+      "name": "Computer"
+    },
+    {
+      "name": "Art",
+      "spt_l5qspvqat1": 0
+    },
+    {
+      "name": "Fibre",
+      "spt_l5qspvqat1": 0,
+      "spt_tboa80jrko": 0
+    }
+  ],
+  "modules_count": {
+    "Art": 5,
+    "Computer": 4,
+    "Fibre": 6,
+    "Help": 0,
+    "Information Technology": 3,
+    "Mathematics": 2,
+    "Time": 1
+  }
+}

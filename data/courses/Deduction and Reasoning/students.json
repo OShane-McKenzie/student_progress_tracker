@@ -1,0 +1,350 @@
+{
+  "student_count": {
+    "spt_0haz3xtae0": 9,
+    "spt_0xaoxs6t1x": 10,
+    "spt_4n7o0zioy5": 5,
+    "spt_6377c8lg7m": 7,
+    "spt_74ag5p0qzl": 6,
+    "spt_dyd5d2laxo": 1,
+    "spt_f7brjjxjit": 11,
+    "spt_joa98k2npj": 8,
+    "spt_la37sjrbc8": 4,
+    "spt_ll7uyxjbei": 2,
+    "spt_m2smz9fhbx": 3,
+    "spt_ywgckn8ljf": 0
+  },
+  "students": [
+    {
+      "ageRange": "18-25",
+      "completedCourses": [
+        "Physical Education",
+        "Science",
+        "Geography",
+        "English",
+        "Art",
+        "Math",
+        "Biology",
+        "Music",
+        "History",
+        "Computer Science"
+      ],
+      "division": "St. Mary",
+      "email": "example1@example.com",
+      "firstName": "Michael",
+      "id": "spt_ywgckn8ljf",
+      "lastName": "Lee",
+      "mobile": "3333333333",
+      "ongoingCourses": [
+        "English",
+        "Computer Science"
+      ],
+      "rank": "Major",
+      "regulationNumber": 76908,
+      "station": "Spanish Town"
+    },
+    {
+      "ageRange": "56-60",
+      "completedCourses": [
+        "Geography",
+        "Computer Science",
+        "Physical Education"
+      ],
+      "division": "Manchester",
+      "email": "example5@example.com",
+      "firstName": "William",
+      "id": "spt_dyd5d2laxo",
+      "lastName": "Davis",
+      "mobile": "7777777777",
+      "ongoingCourses": [
+        "History",
+        "Math",
+        "Art",
+        "Physical Education",
+        "Geography"
+      ],
+      "rank": "Major",
+      "regulationNumber": 77237,
+      "station": "St. Andrew"
+    },
+    {
+      "ageRange": "18-25",
+      "completedCourses": [
+        "Math",
+        "Geography",
+        "Computer Science",
+        "English",
+        "Music",
+        "Biology",
+        "Science",
+        "Art",
+        "History",
+        "Physical Education"
+      ],
+      "division": "Hanover",
+      "email": "example4@example.com",
+      "firstName": "Olivia",
+      "id": "spt_ll7uyxjbei",
+      "lastName": "Mitchell",
+      "mobile": "6666666666",
+      "ongoingCourses": [
+        "Geography",
+        "Biology",
+        "Science"
+      ],
+      "rank": "General",
+      "regulationNumber": 63590,
+      "station": "Ocho Rios"
+    },
+    {
+      "ageRange": "66-70",
+      "completedCourses": [
+        "Geography",
+        "History",
+        "Music"
+      ],
+      "division": "Kingston",
+      "email": "example5@example.com",
+      "firstName": "Emma",
+      "id": "spt_m2smz9fhbx",
+      "lastName": "Jones",
+      "mobile": "1234567890",
+      "ongoingCourses": [
+        "Math",
+        "History",
+        "Music",
+        "Science",
+        "Geography",
+        "Art",
+        "Biology",
+        "Physical Education"
+      ],
+      "rank": "Chief Warrant Officer",
+      "regulationNumber": 77790,
+      "station": "Negril"
+    },
+    {
+      "ageRange": "46-50",
+      "completedCourses": [
+        "Biology",
+        "Computer Science",
+        "Geography",
+        "English",
+        "Art",
+        "Math",
+        "Physical Education",
+        "Music"
+      ],
+      "division": "Kingston",
+      "email": "example3@example.com",
+      "firstName": "Ava",
+      "id": "spt_la37sjrbc8",
+      "lastName": "Williams",
+      "mobile": "1234567890",
+      "ongoingCourses": [
+        "Science",
+        "Art",
+        "History",
+        "Geography"
+      ],
+      "rank": "Chief Warrant Officer",
+      "regulationNumber": 81101,
+      "station": "Montego Bay"
+    },
+    {
+      "ageRange": "51-55",
+      "completedCourses": [
+        "Music",
+        "Physical Education",
+        "Art"
+      ],
+      "division": "Portland",
+      "email": "example5@example.com",
+      "firstName": "Benjamin",
+      "id": "spt_4n7o0zioy5",
+      "lastName": "Davis",
+      "mobile": "9999999999",
+      "ongoingCourses": [
+        "Music",
+        "Geography",
+        "Math",
+        "Computer Science",
+        "Biology",
+        "History",
+        "Art",
+        "English"
+      ],
+      "rank": "Captain",
+      "regulationNumber": 13854,
+      "station": "May Pen"
+    },
+    {
+      "ageRange": "61-65",
+      "completedCourses": [
+        "Math",
+        "Physical Education",
+        "Science",
+        "Art",
+        "Music",
+        "Computer Science"
+      ],
+      "division": "St. Elizabeth",
+      "email": "example1@example.com",
+      "firstName": "Lucas",
+      "id": "spt_74ag5p0qzl",
+      "lastName": "Williams",
+      "mobile": "3333333333",
+      "ongoingCourses": [
+        "Biology"
+      ],
+      "rank": "Chief Warrant Officer",
+      "regulationNumber": 85803,
+      "station": "Negril"
+    },
+    {
+      "ageRange": "36-40",
+      "completedCourses": [
+        "Geography",
+        "Biology",
+        "History",
+        "Math",
+        "Physical Education",
+        "Computer Science"
+      ],
+      "division": "Kingston",
+      "email": "example5@example.com",
+      "firstName": "Lucas",
+      "id": "spt_6377c8lg7m",
+      "lastName": "Davis",
+      "mobile": "2222222222",
+      "ongoingCourses": [
+        "Science",
+        "Geography",
+        "Math",
+        "Art",
+        "Physical Education",
+        "History",
+        "English",
+        "Computer Science",
+        "Biology",
+        "Music"
+      ],
+      "rank": "Colonel",
+      "regulationNumber": 30610,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "Science",
+        "Music",
+        "Geography",
+        "Computer Science",
+        "English",
+        "Biology"
+      ],
+      "division": "St. James",
+      "email": "example1@example.com",
+      "firstName": "John",
+      "id": "spt_joa98k2npj",
+      "lastName": "Mitchell",
+      "mobile": "6666666666",
+      "ongoingCourses": [
+        "English",
+        "Science",
+        "Geography",
+        "Physical Education",
+        "Math",
+        "History",
+        "Art",
+        "Computer Science",
+        "Music",
+        "Biology"
+      ],
+      "rank": "Corporal",
+      "regulationNumber": 13776,
+      "station": "Ocho Rios"
+    },
+    {
+      "ageRange": "41-45",
+      "completedCourses": [
+        "Math",
+        "Physical Education",
+        "Music"
+      ],
+      "division": "Portland",
+      "email": "example4@example.com",
+      "firstName": "James",
+      "id": "spt_0haz3xtae0",
+      "lastName": "Jones",
+      "mobile": "7777777777",
+      "ongoingCourses": [
+        "English",
+        "Geography"
+      ],
+      "rank": "Chief Warrant Officer",
+      "regulationNumber": 54834,
+      "station": "Montego Bay"
+    },
+    {
+      "ageRange": "56-60",
+      "completedCourses": [
+        "History",
+        "Art",
+        "Math",
+        "Music",
+        "English",
+        "Physical Education",
+        "Science",
+        "Geography",
+        "Computer Science"
+      ],
+      "division": "Clarendon",
+      "email": "example4@example.com",
+      "firstName": "Emily",
+      "id": "spt_0xaoxs6t1x",
+      "lastName": "Brown",
+      "mobile": "0987654321",
+      "ongoingCourses": [
+        "Physical Education",
+        "Computer Science",
+        "Geography",
+        "Science",
+        "Music",
+        "Art",
+        "Math",
+        "English"
+      ],
+      "rank": "General",
+      "regulationNumber": 51651,
+      "station": "Montego Bay"
+    },
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "Science",
+        "Biology",
+        "Computer Science",
+        "History",
+        "Physical Education"
+      ],
+      "division": "St. Ann",
+      "email": "example5@example.com",
+      "firstName": "James",
+      "id": "spt_f7brjjxjit",
+      "lastName": "Garcia",
+      "mobile": "9999999999",
+      "ongoingCourses": [
+        "Geography",
+        "History",
+        "Physical Education",
+        "Science",
+        "Biology",
+        "Computer Science",
+        "Music"
+      ],
+      "rank": "Sergeant Major",
+      "regulationNumber": 74517,
+      "station": "Montego Bay"
+    }
+  ]
+}

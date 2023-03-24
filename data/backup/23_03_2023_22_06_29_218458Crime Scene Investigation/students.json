@@ -1,0 +1,298 @@
+{
+  "student_count": {
+    "spt_5hf515owhu": 9,
+    "spt_6beh28cu72": 7,
+    "spt_7xt77y2723": 0,
+    "spt_8ghc0xex58": 2,
+    "spt_g2y0asge30": 5,
+    "spt_k58x703821": 6,
+    "spt_moyc9f0vj9": 8,
+    "spt_nekgr2e79u": 3,
+    "spt_qyt6p1cuu9": 1,
+    "spt_x699d5cvsj": 4
+  },
+  "students": [
+    {
+      "ageRange": "51-55",
+      "completedCourses": [
+        "Science",
+        "English",
+        "Art",
+        "Math",
+        "History",
+        "Physical Education",
+        "Music"
+      ],
+      "division": "St. Mary",
+      "email": "example3@example.com",
+      "firstName": "Emma",
+      "id": "spt_7xt77y2723",
+      "lastName": "Brown",
+      "mobile": "6666666666",
+      "ongoingCourses": [
+        "Geography",
+        "Computer Science",
+        "Biology",
+        "Science",
+        "Music",
+        "Art",
+        "History"
+      ],
+      "rank": "Colonel",
+      "regulationNumber": 99711,
+      "station": "Falmouth"
+    },
+    {
+      "ageRange": "26-30",
+      "completedCourses": [
+        "Art",
+        "Physical Education",
+        "Geography",
+        "Computer Science",
+        "English"
+      ],
+      "division": "St. James",
+      "email": "example1@example.com",
+      "firstName": "John",
+      "id": "spt_qyt6p1cuu9",
+      "lastName": "Davis",
+      "mobile": "1234567890",
+      "ongoingCourses": [
+        "Math",
+        "Art"
+      ],
+      "rank": "Colonel",
+      "regulationNumber": 87880,
+      "station": "Black River"
+    },
+    {
+      "ageRange": "56-60",
+      "completedCourses": [
+        "Art",
+        "Music",
+        "Science",
+        "Computer Science",
+        "History"
+      ],
+      "division": "St. Elizabeth",
+      "email": "example5@example.com",
+      "firstName": "Ava",
+      "id": "spt_8ghc0xex58",
+      "lastName": "Davis",
+      "mobile": "5555555555",
+      "ongoingCourses": [
+        "Art",
+        "History",
+        "English",
+        "Math",
+        "Science",
+        "Geography",
+        "Physical Education",
+        "Music",
+        "Biology",
+        "Computer Science"
+      ],
+      "rank": "Chief Warrant Officer",
+      "regulationNumber": 87659,
+      "station": "Ocho Rios"
+    },
+    {
+      "ageRange": "66-70",
+      "completedCourses": [
+        "Science",
+        "Geography",
+        "Music",
+        "Art",
+        "Physical Education",
+        "English",
+        "History"
+      ],
+      "division": "Portland",
+      "email": "example3@example.com",
+      "firstName": "Sophia",
+      "id": "spt_nekgr2e79u",
+      "lastName": "Davis",
+      "mobile": "6666666666",
+      "ongoingCourses": [
+        "Computer Science",
+        "Art",
+        "Geography",
+        "Math",
+        "History",
+        "Music",
+        "Biology",
+        "English",
+        "Science"
+      ],
+      "rank": "Major",
+      "regulationNumber": 46351,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "56-60",
+      "completedCourses": [
+        "Music",
+        "Physical Education",
+        "History"
+      ],
+      "division": "Clarendon",
+      "email": "example5@example.com",
+      "firstName": "John",
+      "id": "spt_x699d5cvsj",
+      "lastName": "Martinez",
+      "mobile": "2222222222",
+      "ongoingCourses": [
+        "Biology",
+        "Math",
+        "Art",
+        "Music",
+        "History",
+        "Geography",
+        "Science",
+        "Physical Education",
+        "Computer Science",
+        "English"
+      ],
+      "rank": "Lieutenant",
+      "regulationNumber": 77361,
+      "station": "Ocho Rios"
+    },
+    {
+      "ageRange": "56-60",
+      "completedCourses": [
+        "Physical Education",
+        "Computer Science",
+        "English",
+        "Science",
+        "History"
+      ],
+      "division": "Hanover",
+      "email": "example2@example.com",
+      "firstName": "Ava",
+      "id": "spt_g2y0asge30",
+      "lastName": "Johnson",
+      "mobile": "0987654321",
+      "ongoingCourses": [
+        "Art",
+        "History",
+        "Biology",
+        "Computer Science"
+      ],
+      "rank": "Captain",
+      "regulationNumber": 59225,
+      "station": "Portmore"
+    },
+    {
+      "ageRange": "31-35",
+      "completedCourses": [
+        "Math",
+        "Computer Science",
+        "Music",
+        "Physical Education",
+        "Biology",
+        "Geography",
+        "History",
+        "Art",
+        "Science",
+        "English"
+      ],
+      "division": "Portland",
+      "email": "example2@example.com",
+      "firstName": "James",
+      "id": "spt_k58x703821",
+      "lastName": "Williams",
+      "mobile": "8888888888",
+      "ongoingCourses": [
+        "Music",
+        "History"
+      ],
+      "rank": "Lieutenant",
+      "regulationNumber": 22682,
+      "station": "Negril"
+    },
+    {
+      "ageRange": "56-60",
+      "completedCourses": [
+        "English",
+        "Music",
+        "Computer Science",
+        "Biology",
+        "Art",
+        "Physical Education"
+      ],
+      "division": "St. Elizabeth",
+      "email": "example3@example.com",
+      "firstName": "James",
+      "id": "spt_6beh28cu72",
+      "lastName": "Brown",
+      "mobile": "2222222222",
+      "ongoingCourses": [
+        "Physical Education",
+        "Math",
+        "Music",
+        "Geography"
+      ],
+      "rank": "Chief Warrant Officer",
+      "regulationNumber": 24071,
+      "station": "Black River"
+    },
+    {
+      "ageRange": "36-40",
+      "completedCourses": [
+        "History",
+        "English",
+        "Math",
+        "Physical Education",
+        "Science",
+        "Computer Science",
+        "Music",
+        "Art",
+        "Biology"
+      ],
+      "division": "St. Elizabeth",
+      "email": "example1@example.com",
+      "firstName": "Michael",
+      "id": "spt_moyc9f0vj9",
+      "lastName": "Garcia",
+      "mobile": "5555555555",
+      "ongoingCourses": [
+        "Math",
+        "Art",
+        "Music",
+        "Biology",
+        "Science",
+        "Computer Science"
+      ],
+      "rank": "Lieutenant",
+      "regulationNumber": 45004,
+      "station": "Ocho Rios"
+    },
+    {
+      "ageRange": "36-40",
+      "completedCourses": [
+        "Math"
+      ],
+      "division": "St. James",
+      "email": "example3@example.com",
+      "firstName": "Michael",
+      "id": "spt_5hf515owhu",
+      "lastName": "Jones",
+      "mobile": "2222222222",
+      "ongoingCourses": [
+        "English",
+        "History",
+        "Physical Education",
+        "Geography",
+        "Music",
+        "Biology",
+        "Science",
+        "Computer Science",
+        "Art",
+        "Math"
+      ],
+      "rank": "General",
+      "regulationNumber": 38179,
+      "station": "Spanish Town"
+    }
+  ]
+}

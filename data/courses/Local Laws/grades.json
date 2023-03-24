@@ -1,0 +1,46 @@
+{
+  "majorAssessments": [
+    {
+      "name": "theory"
+    },
+    {
+      "name": "practical"
+    }
+  ],
+  "majorAssessments_count": {
+    "practical": 1,
+    "theory": 0
+  },
+  "modules": [
+    {
+      "name": "Local Laws"
+    },
+    {
+      "name": "Criminal Law and Procedure"
+    },
+    {
+      "name": "Civil Law and Procedure"
+    },
+    {
+      "name": "Torts and Liability"
+    },
+    {
+      "name": "Constitutional Law"
+    },
+    {
+      "name": "Administrative Law"
+    },
+    {
+      "name": "Regulatory Law"
+    }
+  ],
+  "modules_count": {
+    "Administrative Law": 5,
+    "Civil Law and Procedure": 2,
+    "Constitutional Law": 4,
+    "Criminal Law and Procedure": 1,
+    "Local Laws": 0,
+    "Regulatory Law": 6,
+    "Torts and Liability": 3
+  }
+}
